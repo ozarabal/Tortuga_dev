@@ -1,0 +1,305 @@
+nama_usaha,jumlah_menu,gambar_menu,apakah_menjual_minuman,apakah_menjual_makanan,jumlah_review,rating,rata-rata_harga_makanan_utama,Promo_ongkir(goplus),jam_buka,lokasi,rating_gmaps,Sosial_media,jumlah_ulasan_gmaps,menu_utama,durasi_oprasional,Kecamantan
+"Soto Ayam Madura United, Lodaya",6,Template,Tidak,Ya,100,4.7,Medium,Ya,8:00,Bandung,5.0,Tidak,1.0,Soto,6.0,Lengkong
+"Dapoer Pandan Wangi, Patuha",104,Foto_Sendiri,Ya,Ya,12000,4.8,Medium,Tidak,10:00,Bandung,4.5,Ya,9063.0,Berangam,11.0,Lengkong
+"Bakso Malang Langgeng, Lodaya",76,Foto_Sendiri,Ya,Ya,900,4.9,Low,Ya,10:00,Bandung,4.2,Ya,1136.0,Bakso,12.0,Lengkong
+"Ayam Goreng Suharti, Lengkong",130,Foto_Sendiri,Ya,Ya,9000,4.8,High,Ya,8:00,Bandung,4.5,Ya,1668.0,Ayam,12.0,Lengkong
+"KADAKA Cafe & Resto, Patuha",71,Foto_Sendiri,Ya,Ya,100,4.6,High,Ya,8:00,Bandung,4.7,Ya,475.0,Pizza,12.0,Lengkong
+"Batagor Riri, Pusat",31,Foto_Sendiri,Ya,Ya,3000,4.9,Very High,Tidak,8:30,Bandung,4.9,Ya,4220.0,Batagor,10.0,Lengkong
+"Warung Nasi Sunda Ibu Nining, Pelajar",83,Template,Ya,Ya,1000,4.2,Low,Ya,8:00,Bandung,4.3,Tidak,32.0,Ayam,13.0,Lengkong
+"Es Oyen, Pujasera San Francisco",8,Template,Ya,Tidak,900,4.4,Medium,Ya,11:00,Bandung,4.4,Tidak,77.0,Es,11.0,Lengkong
+"Nasi Jamblang Asli Khas Cirebon, Lengkong",94,Template,Ya,Ya,2000,4.5,Low,Ya,10:30,Bandung,4.3,Ya,1815.0,Beragam,9.0,Lengkong
+"Rockepo Coffee, Lengkong",40,Foto_Sendiri,Ya,Tidak,50,4.5,Low,Ya,9:00,Bandung,4.4,Tidak,130.0,Kopi,13.0,Lengkong
+Kedai Mandiri,64,Template,Ya,Ya,4000,4.9,Medium,Tidak,7:00,Bandung,4.5,Ya,1577.0,Berangam,13.0,Lengkong
+"Ayam Goreng Sinar Pemuda, Karapitan",32,Template,Ya,Ya,400,4.8,High,Ya,9:30,Bandung ,4.5,Tidak,21.0,Ayam,10.0,Lengkong
+"Cikawao Steak, Cikawao",65,Foto_Sendiri,Ya,Ya,2000,4.4,High,Tidak,11:00,Bandung,4.4,Ya,2367.0,Steak,11.0,Lengkong
+"Bubur Ayam Pelana, Emong",48,Foto_Sendiri,Ya,Ya,7000,4.6,Medium,Ya,7:00,Bandung,4.5,Ya,1025.0,Bubur,14.0,Lengkong
+"Batagor Burangrang, Lengkong",50,Foto_Sendiri,Ya,Ya,2000,5.0,Very High,Ya,8:00,Bandung,4.5,Ya,1391.0,Batagor,12.0,Lengkong
+"Ayam Goreng Hawaii, Burangrang",35,Foto_Sendiri,Ya,Ya,5000,5.0,Low,Tidak,13:00,Bandung,4.4,Ya,505.0,Ayam,9.0,Lengkong
+"Pinukka Resto & Catering, Sumur Bandung",30,Template,Ya,Ya,1000,5.0,High,Ya,7:30,Bandung,4.5,Tidak,737.0,Non-halal,9.0,Sumur_Bandung
+"AGJ - Ayam Geprek Jogja, Regol",49,Foto_Sendiri,Ya,Ya,10000,4.8,Medium,Ya,9:00,Bandung,4.5,Ya,928.0,Ayam,12.0,Regol
+"Sate Maranggi Cianjur Pak Ade, Jl Bkr 65",17,Foto_Sendiri,Ya,Ya,900,4.0,High,Ya,11:00,Bandung,4.5,Ya,230.0,Sate,12.0,Regol
+"Pempek Putra Rama, Lengkong",35,Template,Ya,Ya,7000,4.8,Low,Ya,10:30,Bandung,4.5,Ya,1.525,Pempek,9.0,Lengkong
+Jack Runner Roastery,57,Foto_Sendiri,Ya,Ya,300,4.8,Medium,Ya,10:00,Bandung ,4.6,Ya,587.0,Kopi,14.0,Sumur_Bandung
+"Legoh, Paledang",44,Foto_Sendiri,Ya,Ya,1000,4.0,Medium,Tidak,11:30,Bandung ,4.4,Tidak,1599.0,Iga,10.0,Lengkong
+Al Jazeerah Signature,112,Foto_Sendiri,Ya,Ya,2000,5.0,Very High,Tidak,10:00,Bandung,4.5,Ya,4.886,Nasi,13.0,Bandung Wetan
+Sejiwa Coffee,35,Foto_Sendiri,Ya,Ya,1500,4.8,High,Ya,8:00,Bandung,4.6,Ya,8500.0,Kopi,14.0,Bandung Wetan
+Warung Kopi Imah Babaturan,45,Foto_Sendiri,Ya,Ya,850,4.6,Medium,Tidak,9:00,Bandung,4.5,Ya,4200.0,Gorengan,14.0,Bandung Wetan
+Sunda Lokal,60,Foto_Sendiri,Ya,Ya,980,4.7,High,Ya,10:00,Bandung,4.7,Ya,3100.0,Nasi,11.0,Sukajadi
+Jardin Cafe,55,Foto_Sendiri,Ya,Ya,2100,4.5,High,Ya,10:00,Bandung,4.4,Ya,12000.0,Pizza,12.0,Bandung Wetan
+Armor Kopi,25,Foto_Sendiri,Ya,Ya,1800,4.4,Medium,Ya,8:00,Bandung,4.5,Ya,9500.0,Kopi,13.0,Cibeunying Kaler
+Lereng Anteng Panoramic Coffee,40,Foto_Sendiri,Ya,Ya,3500,4.5,Medium,Tidak,9:00,Bandung,4.4,Ya,25000.0,Kopi,12.0,Lembang
+Kopi Anjis,30,Foto_Sendiri,Ya,Ya,1200,4.6,Medium,Ya,7:00,Bandung,4.5,Ya,7600.0,Kopi,17.0,Bandung Wetan
+Nasi Goreng AEP'S,20,Foto_Sendiri,Tidak,Ya,750,4.8,Medium,Tidak,17:00,Bandung,4.6,Ya,1500.0,Nasi,9.0,Sukajadi
+Iga Bakar Si Jangkung,15,Foto_Sendiri,Ya,Ya,4500,4.7,High,Ya,11:00,Bandung,4.5,Ya,11000.0,Iga,11.0,Coblong
+Batagor Kingsley,5,Foto_Sendiri,Ya,Ya,2800,4.4,Medium,Tidak,9:00,Bandung,4.3,Ya,6300.0,Batagor,11.0,Sumur Bandung
+Mie Kocok Persib,3,Foto_Sendiri,Ya,Ya,1500,4.6,Medium,Tidak,10:00,Bandung,4.5,Tidak Ada,4100.0,Mie,8.0,Sumur Bandung
+Bebeke Om Aris,25,Foto_Sendiri,Ya,Ya,1100,4.7,Medium,Ya,10:00,Bandung,4.6,Ya,2500.0,Bebek,12.0,Coblong
+Cafenaria,50,Foto_Sendiri,Ya,Ya,600,4.3,Medium,Ya,10:00,Bandung,4.2,Ya,1800.0,Ayam,12.0,Sukajadi
+Sydwic,38,Foto_Sendiri,Ya,Ya,950,4.8,Medium,Ya,8:00,Bandung,4.7,Ya,3200.0,Roti,12.0,Bandung Wetan
+Warung Nasi Ibu Imas,30,Foto_Sendiri,Ya,Ya,2200,4.6,Low,Tidak,7:00,Bandung,4.5,Ya,3500.0,Ayam,12.0,Regol
+Roti Gempol,10,Foto_Sendiri,Ya,Ya,1700,4.5,Low,Tidak,7:00,Bandung,4.6,Ya,4800.0,Roti,10.0,Sumur Bandung
+Two Hands Full,42,Foto_Sendiri,Ya,Ya,1300,4.5,High,Ya,7:00,Bandung,4.4,Ya,3900.0,Telur,14.0,Sukajadi
+Karnivor Restaurant,70,Foto_Sendiri,Ya,Ya,2500,4.4,Very High,Ya,11:00,Bandung,4.4,Ya,14000.0,Steak,12.0,Bandung Wetan
+One Eighty Coffee & Music,65,Foto_Sendiri,Ya,Ya,4000,4.6,High,Ya,8:00,Bandung,4.5,Ya,19000.0,Pasta,14.0,Coblong
+Selasar Sunaryo Art Space,30,Foto_Sendiri,Ya,Ya,700,4.5,High,Tidak,10:00,Bandung,4.6,Ya,6500.0,Kopi,8.0,Cibeunying Kaler
+Dago Bakery Punclut,50,Foto_Sendiri,Ya,Ya,2800,4.3,High,Tidak,9:00,Bandung,4.2,Ya,15000.0,Roti,12.0,Lembang
+Toko Kopi Djawa,20,Foto_Sendiri,Ya,Ya,1900,4.7,Medium,Ya,8:00,Bandung,4.6,Ya,8900.0,Kopi,14.0,Sumur Bandung
+Warung Steak & Shake,40,Foto_Sendiri,Ya,Ya,1800,4.4,Medium,Ya,11:00,Bandung,4.5,Ya,6700.0,Steak,11.0,Bandung Wetan
+Hummingbird Eatery,60,Foto_Sendiri,Ya,Ya,1600,4.5,Very High,Ya,7:00,Bandung,4.5,Ya,6200.0,Nasi,16.0,Bandung Wetan
+Giggle Box,55,Foto_Sendiri,Ya,Ya,900,4.2,Medium,Ya,10:00,Bandung,4.3,Ya,2100.0,Pasta,12.0,Bandung Wetan
+Congo Gallery & Cafe,48,Foto_Sendiri,Ya,Ya,1100,4.6,Very High,Tidak,10:00,Bandung,4.5,Ya,8300.0,Sop,13.0,Cibeunying Kaler
+D'Pakar Cafe,33,Foto_Sendiri,Ya,Ya,1300,4.4,Medium,Tidak,9:00,Bandung,4.4,Ya,7400.0,Kopi,9.0,Cimenyan
+Boemi Mitoha,40,Foto_Sendiri,Ya,Ya,880,4.7,Medium,Ya,10:00,Bandung,4.6,Ya,2900.0,Nasi,11.0,Cihapit
+Lomie Imam Bonjol,10,Foto_Sendiri,Ya,Ya,950,4.6,Medium,Tidak,9:00,Bandung,4.5,Tidak Ada,2300.0,Beragam,10.0,Coblong
+Seblak Sultan,15,Foto_Sendiri,Tidak,Ya,1200,4.8,Medium,Ya,11:00,Bandung,4.7,Ya,3400.0,Pasta,10.0,Bandung Wetan
+Surabi Cihapit,12,Foto_Sendiri,Ya,Ya,1000,4.5,Low,Tidak,15:00,Bandung,4.4,Tidak Ada,2000.0,Roti,8.0,Bandung Wetan
+Nasi Kuning Pasir Koja,8,Foto_Sendiri,Tidak,Ya,600,4.9,Low,Tidak,6:00,Bandung,4.8,Tidak Ada,950.0,Nasi,4.0,Astanaanyar
+Sate Maulana Yusuf,7,Foto_Sendiri,Ya,Ya,1100,4.6,High,Tidak,10:00,Bandung,4.5,Tidak Ada,3100.0,Sate,12.0,Bandung Wetan
+Bakso Boedjangan,30,Foto_Sendiri,Ya,Ya,3100,4.4,Medium,Ya,10:00,Bandung,4.3,Ya,11000.0,Bakso,12.0,Coblong
+Rumah Makan Legoh,35,Foto_Sendiri,Ya,Ya,780,4.5,Medium,Ya,9:00,Bandung,4.4,Ya,1500.0,Nasi,12.0,Bandung Wetan
+Saung Gawir,40,Foto_Sendiri,Ya,Ya,550,4.6,Medium,Tidak,10:00,Bandung,4.5,Ya,1200.0,Ikan,10.0,Cibeunying Kaler
+Dapur Dahapati,20,Foto_Sendiri,Ya,Ya,990,4.8,High,Tidak,10:00,Bandung,4.7,Tidak Ada,2600.0,Sop,10.0,Sukajadi
+Roemah Nenek,50,Foto_Sendiri,Ya,Ya,1050,4.4,High,Ya,10:00,Bandung,4.4,Ya,2800.0,Beragam,12.0,Cibeunying Kidul
+Kalpa Tree Dine & Chill,60,Foto_Sendiri,Ya,Ya,2400,4.5,High,Ya,10:00,Bandung,4.4,Ya,11500.0,Pizza,12.0,Cidadap
+Cakue Odading Gardujati,4,Foto_Sendiri,Tidak,Ya,850,4.7,Low,Tidak,7:00,Bandung,4.6,Tidak Ada,1700.0,Roti,11.0,Andir
+Tizi's Restaurant,55,Foto_Sendiri,Ya,Ya,760,4.5,Very High,Tidak,10:00,Bandung,4.5,Ya,2500.0,Roti,12.0,Coblong
+Cuanki Serayu,3,Foto_Sendiri,Ya,Ya,2100,4.5,Low,Tidak,11:00,Bandung,4.4,Tidak Ada,5800.0,Cuanki,8.0,Bandung Wetan
+Cafe Bali,45,Foto_Sendiri,Ya,Ya,920,4.4,High,Ya,10:00,Bandung,4.4,Ya,3400.0,Nasi,13.0,Sumur Bandung
+Bakmi GM Cihampelas Walk,50,Foto_Sendiri,Ya,Ya,1300,4.6,Medium,Ya,10:00,Bandung,4.6,Ya,4100.0,Mie,12.0,Coblong
+Pizza Hut Restoran,65,Foto_Sendiri,Ya,Ya,1500,4.5,Very High,Ya,10:00,Bandung,4.5,Ya,4800.0,Pizza,13.0,Sukajadi
+Warung Talaga,40,Foto_Sendiri,Ya,Ya,650,4.3,Medium,Ya,10:00,Bandung,4.2,Ya,1500.0,Beragam,12.0,Sukajadi
+Upnormal Coffee Roasters,70,Foto_Sendiri,Ya,Ya,2800,4.2,Low,Ya,9:00,Bandung,4.1,Ya,8500.0,Mie,15.0,Coblong
+Donwoori,35,Foto_Sendiri,Ya,Ya,1400,4.7,Very High,Ya,11:30,Bandung,4.6,Ya,3300.0,Steak,10.0,Coblong
+Cekeran Midun,20,Foto_Sendiri,Tidak,Ya,900,4.6,Low,Ya,16:00,Bandung,4.5,Ya,2200.0,Ceker,8.0,Coblong
+Sate Kardjan,10,Foto_Sendiri,Ya,Ya,700,4.5,Medium,Tidak,10:00,Bandung,4.4,Tidak Ada,1400.0,Sate,11.0,Cicendo
+Warkop Modjok,30,Foto_Sendiri,Ya,Ya,1150,4.5,Medium,Ya,10:00,Bandung,4.5,Ya,3800.0,Kopi,14.0,Kiaracondong
+Street Grill & Friends,45,Foto_Sendiri,Ya,Ya,800,4.6,High,Ya,12:00,Bandung,4.5,Ya,2000.0,Steak,10.0,Bandung Wetan
+Mimiti Coffee & Space,25,Foto_Sendiri,Ya,Ya,980,4.6,Medium,Ya,8:00,Bandung,4.6,Ya,3100.0,Kopi,13.0,Sukajadi
+Floating Market Lembang,100,Foto_Sendiri,Ya,Ya,5000,4.4,Medium,Tidak,9:00,Bandung,4.4,Ya,75000.0,Tahu,10.0,Lembang
+Bumi Sangkuriang,50,Foto_Sendiri,Ya,Ya,600,4.5,Very High,Tidak,10:00,Bandung,4.5,Ya,1900.0,Sop,11.0,Cidadap
+Yoghurt Cisangkuy,15,Foto_Sendiri,Ya,Ya,1800,4.4,Medium,Tidak,8:00,Bandung,4.4,Tidak Ada,6300.0,Es,12.5,Bandung Wetan
+Baso Malang Karapitan,25,Foto_Sendiri,Ya,Ya,950,4.3,Medium,Ya,10:00,Bandung,4.3,Ya,2400.0,Bakso,12.0,Batununggal
+Martabak Nikmat Andir,10,Foto_Sendiri,Tidak,Ya,1600,4.6,High,TIdak,16:00,Bandung,4.5,Ya,4300.0,Martabak,6.1,Andir
+Rumah Makan Ampera,45,Foto_Sendiri,Ya,Ya,1100,4.4,Medium,TIdak,9:00,Bandung,4.3,Tidak Ada,2100.0,Ayam,11.1,Cicendo
+Sushi Tei,80,Foto_Sendiri,Ya,Ya,2200,4.7,Very High,Ya,10:00,Bandung,4.6,Ya,8800.0,Ikan,12.0,Sumur Bandung
+Ayam Goreng Suharti,20,Foto_Sendiri,Ya,Ya,800,4.5,High,Tidak,10:00,Bandung,4.4,Tidak Ada,1800.0,Ayam,10.1,Sukajadi
+Braga Permai,75,Foto_Sendiri,Ya,Ya,1500,4.4,Very High,Tidak,9:00,Bandung,4.4,Ya,7100.0,Daging,14.0,Sumur Bandung
+The Stone Cafe,55,Foto_Sendiri,Ya,Ya,1350,4.3,Very High,TIdak,11:00,Bandung,4.3,Ya,5600.0,Steak,12.0,Cibeunying Kaler
+Roti John Surabaya,8,Foto_Sendiri,Tidak,Ya,500,4.8,Medium,Ya,15:00,Bandung,4.7,Ya,900.0,Roti,7.0,Antapani
+Feast by Kokikutv,40,Foto_Sendiri,Ya,Ya,650,4.9,High,Tidak,10:00,Bandung,4.8,Ya,1200.0,Ayam,11.0,Dago
+Sate & Gule Harris,12,Foto_Sendiri,Ya,Ya,900,4.7,High,Tidak,9:00,Bandung,4.6,Tidak Ada,2300.0,Sate,9.0,Sumur Bandung
+Laksana,50,Foto_Sendiri,Ya,Ya,1200,4.5,Medium,Tidak,8:00,Bandung,4.4,Tidak Ada,3000.0,Ayam,12.0,Batununggal
+Dapur Pandan Wangi,40,Foto_Sendiri,Ya,Ya,750,4.6,High,Ya,10:00,Bandung,4.5,Ya,1700.0,Ikan,12.0,Lengkong
+Lawson Station,150,Foto_Sendiri,Ya,Ya,450,4.1,Low,Ya,0:00,Bandung,4.2,Ya,1100.0,Beragam,24.0,Sumur Bandung
+Mixue Ice Cream & Tea,30,Foto_Sendiri,Ya,Tidak,980,4.8,Low,Ya,10:00,Bandung,4.7,Ya,1500.0,Es,12.0,Coblong
+Sec Bowl Kuningan,25,Foto_Sendiri,Ya,Ya,1250,1.2,Medium,Ya,10:00,Jakarta,1.5,Ya,1250.0,Nasi,12.0,Setiabudi
+The Sky Restaurant and Bistro,40,Foto_Sendiri,Ya,Ya,450,1.5,High,Tidak,18:00,Bekasi,1.8,Ya,450.0,Beragam,9.0,Cikarang Selatan
+Lotteria,35,Foto_Sendiri,Ya,Ya,8500,3.5,Low,Ya,10:00,Bekasi,3.7,Ya,8500.0,Ayam,12.0,Cikarang Selatan
+Red Bean,50,Foto_Sendiri,Ya,Ya,3200,3.8,Medium,Tidak,10:00,Jakarta,3.9,Ya,3200.0,Beragam,12.0,Kembangan
+Pasta de Waraku,40,Foto_Sendiri,Ya,Ya,2100,3.2,Medium,Tidak,11:00,Jakarta,3.4,Ya,2100.0,Pasta,11.0,Tanah Abang
+Karen's Diner Jakarta,20,Foto_Sendiri,Ya,Ya,980,2.9,High,Tidak,12:00,Jakarta,3.1,Ya,980.0,Burger,10.0,Kebayoran Baru
+Holywings Forest Bekasi,60,Foto_Sendiri,Ya,Ya,1500,2.1,High,Ya,17:00,Bekasi,2.4,Ya,1500.0,Es,9.0,Bekasi Utara
+Fish & Co.,30,Foto_Sendiri,Ya,Ya,11500,4.0,High,Ya,10:00,Jakarta,4.1,Ya,11500.0,Ikan,12.0,Kelapa Gading
+Carl's Jr.,25,Foto_Sendiri,Ya,Ya,9800,3.9,Medium,Ya,10:00,Jakarta,4.0,Ya,9800.0,Burger,12.0,Kelapa Gading
+Izzi Pizza,30,Foto_Sendiri,Ya,Ya,1500,3.7,Medium,Ya,11:00,Jakarta,3.8,Tidak,1500.0,Pizza,11.0,Mampang Prapatan
+Restoran Cahaya Kota,60,Foto_Sendiri,Ya,Ya,950,4.2,High,Tidak,11:00,Jakarta,4.3,Tidak,950.0,Beragam,10.0,Menteng
+McDonald's Sarinah,40,Foto_Sendiri,Ya,Ya,25000,4.5,Medium,Ya,0:00,Jakarta,4.6,Ya,25000.0,Ayam,24.0,Menteng
+Marche Movenpick,70,Foto_Sendiri,Ya,Ya,4500,4.1,High,Tidak,10:00,Jakarta,4.2,Ya,4500.0,Beragam,12.0,Kembangan
+UMKM JP 41 Cempaka Putih,15,Template,Ya,Ya,150,2.5,Low,Tidak,9:00,Jakarta,2.8,Tidak,150.0,Nasi,12.0,Cempaka Putih
+Warjo Bekasi Utara,20,Template,Ya,Ya,210,2.3,Low,Tidak,18:00,Bekasi,2.5,Tidak,210.0,Kopi,10.0,Bekasi Utara
+Infinity Cafe Cikarang,50,Foto_Sendiri,Ya,Ya,350,1.8,High,Ya,19:00,Bekasi,2.0,Ya,350.0,Kopi,8.0,Cikarang Selatan
+Kafe Kloud Senopati,40,Foto_Sendiri,Ya,Ya,800,1.9,High,Ya,18:00,Jakarta,2.2,Ya,800.0,Kopi,8.0,Kebayoran Baru
+Kilo Kitchen & Lounge,45,Foto_Sendiri,Ya,Ya,750,2.0,Very High,Ya,18:00,Jakarta,2.3,Ya,750.0,Beragam,7.0,Kebayoran Baru
+Waroeng Brothers Coffee & Resto,30,Foto_Sendiri,Ya,Ya,400,2.2,Low,Tidak,16:00,Jakarta,2.5,Ya,400.0,Kopi,8.0,Mampang Prapatan
+Babiambo Kelapa Gading,10,Foto_Sendiri,Tidak,Ya,120,1.5,Medium,Tidak,11:00,Jakarta,1.9,Ya,120.0,Nasi,10.0,Kelapa Gading
+Pyongyang Restaurant,25,Foto_Sendiri,Ya,Ya,80,3.0,Very High,Tidak,11:00,Jakarta,3.3,Tidak,80.0,Beragam,24.0,Kelapa Gading
+RANS Nusantara Hebat,80,Foto_Sendiri,Ya,Ya,2500,2.8,Low,Ya,10:00,Tangerang,3.0,Ya,2500.0,Beragam,11.0,Serpong Utara
+Sagoo Kitchen Summarecon Bekasi,40,Foto_Sendiri,Ya,Ya,1100,3.6,Medium,Tidak,10:00,Bekasi,3.8,Ya,1100.0,Makanan Indonesia,12.0,Bekasi Utara
+Lute Cafe Tambun Selatan,30,Foto_Sendiri,Ya,Ya,280,1.7,Medium,Ya,20:00,Bekasi,2.0,Ya,280.0,Kopi,7.0,Tambun Selatan
+Steak Pahlawan Galaxy,20,Foto_Sendiri,Ya,Ya,350,3.5,Medium,Ya,10:00,Bekasi,3.7,Ya,350.0,Steak,13.0,Bekasi Selatan
+New Zealand Natural,25,Foto_Sendiri,Ya,Ya,900,3.8,Medium,Tidak,10:00,Jakarta,4.0,Ya,900.0,Es,12.0,Tanah Abang
+Hard Rock Cafe Jakarta,50,Foto_Sendiri,Ya,Ya,7600,4.3,Very High,Tidak,11:30,Jakarta,4.4,Ya,7600.0,Beragam,13.0,Kebayoran Baru
+Warunk Upnormal (beberapa cabang),50,Foto_Sendiri,Ya,Ya,5500,3.1,Low,Ya,0:00,Jakarta,3.3,Ya,5500.0,Kopi,24.0,Kebayoran Baru
+Authentic Restaurant and Lounge,40,Foto_Sendiri,Ya,Ya,250,1.5,High,Ya,19:00,Jakarta,1.8,Ya,250.0,Es,7.0,Kelapa Gading
+Djournal House Senopati,35,Foto_Sendiri,Ya,Ya,1800,4.1,Medium,Tidak,7:30,Jakarta,4.2,Ya,1800.0,Koip,14.0,Kebayoran Baru
+Soto Ayam Ceker Seroja,10,Template,Ya,Ya,1200,4.5,Low,Tidak,5:30,Jakarta,4.6,Ya,1200.0,Soto,15.0,Bekasi Utara
+UMKM Olahan Mangrove Muaragembong,15,Template,Ya,Ya,150,4.2,Low,Tidak,9:00,Bekasi,4.3,Tidak,150.0,Es,8.0,Muaragembong
+Dapur Mamima Katering,30,Foto_Sendiri,Tidak,Ya,350,4.8,Low,Ya,8:00,Bekasi,4.8,Ya,350.0,Beragam,9.0,Bekasi Utara
+Soto Betawi H. Ma'ruf,12,Foto_Sendiri,Ya,Ya,5200,4.7,Medium,Tidak,9:30,Jakarta,4.7,Ya,5200.0,Soto,11.0,Menteng
+Ayam Goreng Berkah Rachmat,8,Foto_Sendiri,Ya,Ya,7500,4.6,Low,Tidak,10:30,Jakarta,4.6,Ya,7500.0,Ayam,11.0,Kebayoran Baru
+Asinan Special Ny. Isye,10,Foto_Sendiri,Tidak,Ya,12500,4.7,Low,Ya,8:00,Jakarta,4.7,Ya,12500.0,Sayuran,11.0,Pulo Gadung
+Ketoprak Ciragil,5,Template,Tidak,Ya,8100,4.5,Low,Tidak,8:30,Jakarta,4.5,Tidak,8100.0,Sayuran,8.0,Kebayoran Baru
+Sedjuk Bakmi & Kopi,25,Foto_Sendiri,Ya,Ya,4500,4.6,Medium,Ya,7:00,Jakarta,4.7,Ya,4500.0,Mie,15.0,Sawah Besar
+Gudeg Pejompongan,20,Foto_Sendiri,Ya,Ya,1230,3.6,Medium,Tidak,8:00,Jakarta,3.6,Tidak,1230.0,Nasi,13.0,Tanah Abang
+Bakmi Ka Heng,20,Foto_Sendiri,Ya,Ya,850,4.1,Low,Tidak,7:00,Jakarta,4.1,Ya,850.0,Mie,14.0,Grogol Petamburan
+Ipoh Heritage,60,Foto_Sendiri,Ya,Ya,500,4.0,Medium,Tidak,7:00,Jakarta,4.0,Ya,500.0,Beragam,17.0,Kelapa Gading
+Mie Ayam Aldo,15,Foto_Sendiri,Ya,Ya,500,4.6,Low,Ya,10:00,Jakarta,4.6,Ya,500.0,Mie,10.0,Grogol Petamburan
+Sate Madura BANG JALAL,10,Foto_Sendiri,Ya,Ya,800,4.8,Low,Ya,17:00,Jakarta,4.8,Ya,800.0,Sate,8.0,Cengkareng
+Fish Streat Galaxy,20,Foto_Sendiri,Ya,Ya,2500,4.4,Low,Ya,10:00,Bekasi,4.4,Ya,2500.0,Ikan,11.0,Bekasi Selatan
+Bebek Kaleyo Kalimalang,25,Foto_Sendiri,Ya,Ya,4000,4.5,Medium,Ya,9:00,Bekasi,4.5,Ya,4000.0,Bebek,14.0,Cikarang Barat
+Raja Sunda,60,Foto_Sendiri,Ya,Ya,3000,4.3,Medium,Tidak,10:00,Bekasi,4.3,Ya,3000.0,Beragam,12.0,Medan Satria
+Exquise Patisserie,40,Foto_Sendiri,Ya,Ya,1500,4.3,Medium,Tidak,8:00,Jakarta,4.4,Ya,1500.0,Roti,13.0,Kelapa Gading
+Bakmi Karet Asiu,20,Foto_Sendiri,Ya,Ya,500,4.5,Medium,Tidak,5:30,Jakarta,4.6,Ya,500.0,Mie,10.0,Kelapa Gading
+Sate Khas Senayan,40,Foto_Sendiri,Ya,Ya,10000,4.3,Medium,Ya,10:00,Bekasi,4.3,Ya,10000.0,Sate,13.0,Bekasi Utara
+Layar Seafood,50,Foto_Sendiri,Ya,Ya,6000,4.5,High,Tidak,11:00,Jakarta,4.5,Ya,6000.0,Ikan,11.0,Kelapa Gading
+Nasi Goreng Kambing Kebon Sirih,5,Foto_Sendiri,Ya,Ya,9500,4.6,Low,Tidak,17:00,Jakarta,4.7,Ya,9500.0,Nasi,9.0,Menteng
+Roti Bakar Eddy,30,Foto_Sendiri,Ya,Ya,7000,4.2,Low,Ya,18:00,Jakarta,4.4,Ya,7000.0,Roti,10.0,Kebayoran Baru
+Bakso Lapangan Tembak Senayan,30,Foto_Sendiri,Ya,Ya,2500,3.8,Low,Tidak,10:00,Jakarta,4.0,Ya,2500.0,Bakso,12.0,Kebayoran Baru
+Industri Mie Kelapa Gading,20,Foto_Sendiri,Ya,Ya,600,3.9,Low,Tidak,7:00,Jakarta,4.0,Ya,600.0,Mie,15.0,Kelapa Gading
+Bakmie Chuan Kelapa Gading,15,Foto_Sendiri,Ya,Ya,300,3.9,Low,Tidak,8:00,Jakarta,4.1,Ya,300.0,Mie,9.0,Kelapa Gading
+Sushi Ya Tebet,40,Foto_Sendiri,Ya,Ya,950,3.6,Medium,Ya,11:00,Jakarta,3.8,Ya,950.0,Ikan,1111.0,Tebet
+Umaku Sushi Resto Tebet,35,Foto_Sendiri,Ya,Ya,1200,3.2,Medium,Ya,12:00,Jakarta,3.5,Ya,1200.0,Ikan,10.0,Tebet
+Gudeg Omah Songo,15,Foto_Sendiri,Ya,Ya,150,3.5,Low,Tidak,9:00,Jakarta,3.7,Tidak,150.0,Nasi,7.0,Jakarta Pusat
+Pujangga Steak & Coffee,25,Foto_Sendiri,Ya,Ya,400,3.7,Medium,Ya,10:00,Jakarta,3.9,Ya,400.0,Steak,12.0,Duren Sawit
+Tokyo Ramen Tabushi,20,Foto_Sendiri,Ya,Ya,300,2.0,Medium,Tidak,11:00,Jakarta,2.5,Ya,300.0,Mie,11.0,Kelapa Gading
+RM Nusantara Bekasi Selatan,30,Foto_Sendiri,Ya,Ya,200,3.8,Low,Tidak,9:00,Bekasi,4.0,Tidak,200.0,Beragam,13.0,Bekasi Selatan
+Rotipap Bekasi Selatan,20,Foto_Sendiri,Ya,Ya,300,3.5,Low,Ya,10:00,Bekasi,3.7,Ya,300.0,Roti,12.0,Bekasi Selatan
+Sate Tongseng Pak Min Solo,10,Foto_Sendiri,Ya,Ya,180,4.0,Low,Tidak,10:00,Bekasi,4.2,Tidak,180.0,Sate,11.0,Bekasi Utara
+Djoko Bakery Pondok Gede,100,Foto_Sendiri,Ya,Ya,1500,4.4,Low,Tidak,7:00,Bekasi,4.5,Ya,1500.0,Roti,14.0,Pondok Gede
+Hokkie Bakery & Cake,80,Foto_Sendiri,Ya,Ya,250,2.8,Low,Tidak,6:00,Bekasi,3.0,Ya,250.0,Roti,16.0,Mustika Jaya
+Bakso 05 Surabaya,15,Foto_Sendiri,Ya,Ya,200,3.9,Low,Tidak,11:00,Jakarta,4.1,Tidak,200.0,Bakso,6.0,Kalideres
+Khayal Coffee Studio,20,Foto_Sendiri,Ya,Ya,280,3.3,Low,Tidak,10:00,Jakarta,3.5,Ya,280.0,Kopi,12.0,Tebet
+JEP Kopi,15,Foto_Sendiri,Ya,Ya,150,3.4,Low,Tidak,9:00,Jakarta,3.6,Ya,150.0,Kopi,8.0,Tebet
+Coffee of Things,25,Foto_Sendiri,Ya,Ya,200,3.5,Low,Tidak,8:30,Jakarta,3.7,Ya,200.0,Kopi,9.0,Tebet
+Sate Express Senayan,15,Foto_Sendiri,Ya,Ya,500,4.0,Medium,Tidak,0:00,Jakarta,4.2,Ya,500.0,Sate,24.0,Cengkareng
+Chong Bak Kut Teh,30,Foto_Sendiri,Ya,Ya,400,3.9,Medium,Tidak,9:00,Jakarta,4.1,Ya,400.0,Sop,11.0,Cengkareng
+Kafe Obama,40,Foto_Sendiri,Ya,Ya,600,1.8,Medium,Ya,18:00,Jakarta,2.1,Ya,600.0,Kopi,8.0,Kebayoran Baru
+Warung Buka Terus,20,Foto_Sendiri,Ya,Ya,180,3.5,Low,Tidak,6:30,Jakarta,3.7,Tidak,180.0,Beragam,12.0,Kelapa Gading
+Kafe Kincir,50,Foto_Sendiri,Ya,Ya,1200,3.9,Medium,Ya,8:00,Jakarta,4.1,Ya,1200.0,Kopi,16.0,Kelapa Gading
+Wendy's PIM,40,Foto_Sendiri,Ya,Ya,3500,4.1,Medium,Ya,10:00,Jakarta,4.2,Ya,3500.0,Burger,12.0,Kebayoran Lama
+Texas Fried Chicken,30,Foto_Sendiri,Ya,Ya,6500,3.7,Low,Ya,10:00,Jakarta,3.8,Ya,6500.0,Ayam,12.0,Kebayoran Lama
+Tjanang Ice Cream,15,Foto_Sendiri,Ya,Tidak,450,3.5,Low,Tidak,0:00,Jakarta,3.8,Tidak,450.0,Es,24.0,Menteng
+Restoran Upnormal Rawamangun,50,Foto_Sendiri,Ya,Ya,2800,3.1,Low,Ya,11:00,Jakarta,3.4,Ya,2800.0,Kopi,11.0,Pulo Gadung
+Portable Kitchen & Lounge,45,Foto_Sendiri,Ya,Ya,550,2.8,High,Ya,10:00,Jakarta,3.1,Ya,550.0,Beragam,12.0,Pulo Gadung
+McD Rawamangun,40,Foto_Sendiri,Ya,Ya,8000,4.4,Medium,Ya,0:00,Jakarta,4.5,Ya,8000.0,Ayam,24.0,Pulo Gadung
+Warung Makan Beringin Sawo,25,Foto_Sendiri,Ya,Ya,100,3.0,Low,Tidak,8:00,Jakarta,3.2,Tidak,100.0,Beragam,12.0,Pulo Gadung
+Pasar Palmerah (beberapa kios),10,Foto_Sendiri,Ya,Ya,500,2.9,Low,Tidak,6:00,Jakarta,3.1,Tidak,500.0,Beragam,8.0,Palmerah
+Kafe Tenda Semanggi,100,Foto_Sendiri,Ya,Ya,3000,4.0,Low,Tidak,18:00,Jakarta,4.2,Tidak,3000.0,Beragam,8.0,Kebayoran Baru
+Sate Taichan Senayan City,10,Foto_Sendiri,Ya,Ya,800,3.5,Low,Tidak,18:00,Jakarta,3.7,Ya,800.0,Sate,6.0,Tanah Abang
+Warung remang-remang Rawalumbu,15,Foto_Sendiri,Ya,Ya,90,1.5,Low,Tidak,20:00,Bekasi,1.7,Tidak,90.0,Beragam,8.0,Rawalumbu
+Martabak Bangka 71,20,Foto_Sendiri,Ya,Ya,300,3.7,Medium,Ya,16:00,Bekasi,3.9,Ya,300.0,Martabak,7.0,Bekasi Timur
+Seblak Jeletet Pademangan 4,20,Template,Ya,Ya,600,3.8,Low,Tidak,12:00,Bekasi,4.0,Ya,600.0,Pasta,10.0,Bekasi Barat
+Bakso Sanguan Antapani,10,Foto_Sendiri,Ya,Ya,150,3.5,Low,Tidak,11:00,Bekasi,3.7,Ya,150.0,Bakso,10.0,Mustikajaya
+Ledifia Bakery,40,Foto_Sendiri,Ya,Ya,50,3.0,Low,Tidak,8:00,Bekasi,3.2,Tidak,50.0,Roti,12.0,Bekasi
+Maher,15,Foto_Sendiri,Ya,Ya,40,3.1,Low,Tidak,9:00,Bekasi,3.3,Tidak,40.0,Beragam,11.0,Jatisampurna
+Dapur Teh Mya,25,Foto_Sendiri,Ya,Ya,120,3.4,Low,Ya,9:00,Bekasi,3.6,Ya,120.0,Beragam,11.0,Bekasi Selatan
+Uni Eka,20,Foto_Sendiri,Ya,Ya,70,3.2,Low,Tidak,8:00,Bekasi,3.4,Tidak,70.0,Beragam,11.0,Bekasi Utara
+AyNau Home,15,Foto_Sendiri,Ya,Ya,60,3.3,Low,Tidak,9:00,Bekasi,3.5,Tidak,60.0,Beragam,11.0,Bekasi Utara
+Efea Food,20,Foto_Sendiri,Ya,Ya,80,3.2,Low,Tidak,9:00,Bekasi,3.4,Tidak,80.0,Es,12.0,Bekasi Utara
+IceTehtics,10,Foto_Sendiri,Ya,Tidak,150,3.6,Low,Ya,10:00,Bekasi,3.8,Ya,150.0,Es,11.0,Babelan
+SKY Susu Kyurma,10,Foto_Sendiri,Ya,Tidak,100,3.7,Low,Tidak,8:00,Bekasi,3.9,Ya,100.0,Es,10.0,Jatiasih
+Inofishfood,20,Foto_Sendiri,Ya,Ya,130,3.5,Low,Tidak,10:00,Bekasi,3.7,Ya,130.0,Ikan,10.0,Bekasi Utara
+Kafe Sahuta,30,Foto_Sendiri,Ya,Ya,200,2.5,Low,Tidak,16:00,Depok,2.8,Ya,200.0,Kopi,7.0,Beji
+D'Sultan Café,35,Foto_Sendiri,Ya,Ya,300,2.4,Low,Ya,17:00,Bekasi,2.7,Ya,300.0,Kopi,8.0,Cikarang Utara
+Two Stories Bogor,40,Foto_Sendiri,Ya,Ya,1500,3.8,Medium,Ya,11:00,Bogor,4.0,Ya,1500.0,Kopi,10.0,Bogor Timur
+Take Coffee Puribeta,25,Foto_Sendiri,Ya,Ya,400,2.9,Low,Tidak,10:00,Tangerang,3.2,Ya,400.0,Kopi,11.0,Larangan
+Amigos Resto Kemang,50,Foto_Sendiri,Ya,Ya,2500,4.1,High,Tidak,11:00,Jakarta,4.2,Ya,2500.0,Beragam,12.0,Mampang Prapatan
+Dudung Maman Kopi Kemang,20,Foto_Sendiri,Ya,Ya,500,3.9,Low,Tidak,10:00,Jakarta,4.0,Ya,500.0,Kopi,12.0,Mampang Prapatan
+The Albert Galaxy,30,Foto_Sendiri,Ya,Ya,350,3.0,Medium,Ya,16:00,Bekasi,3.3,Ya,350.0,Kopi,8.0,Bekasi Selatan
+Warung Joglo Si Embah 2,30,Foto_Sendiri,Ya,Ya,100,3.5,Low,Tidak,10:00,Bekasi,3.7,Tidak,100.0,Nasi,11.0,Bekasi Selatan
+Joglo Mbarep Resto & Coffee,35,Foto_Sendiri,Ya,Ya,150,3.6,Medium,Tidak,10:00,Bekasi,3.8,Ya,150.0,Nasi,12.0,Bekasi Selatan
+Warung Leko Pondok Gede,30,Foto_Sendiri,Ya,Ya,1200,4.2,Medium,Tidak,10:00,Bekasi,4.3,Ya,1200.0,Iga,12.0,Pondok Gede
+Martabak Ronny,15,Foto_Sendiri,Ya,Ya,900,4.3,Medium,Ya,18:00,Bekasi,4.4,Ya,900.0,Martabak,5.0,Bekasi Selatan
+Kai Bai Bo,50,Foto_Sendiri,Ya,Ya,700,3.7,Low,Tidak,8:00,Jakarta,3.9,Ya,700.0,Roti,11.0,Kelapa Gading
+Bakmi Ayam 57,10,Template,Ya,Ya,100,3.5,Low,Tidak,8:00,Jakarta,3.7,Tidak,100.0,Mie,7.0,Kelapa Gading
+Bakmi Ono,15,Foto_Sendiri,Ya,Ya,900,3.8,Low,Tidak,6:30,Jakarta,4.0,Ya,900.0,Mie,7.0,Kelapa Gading
+Bakmi Asui,10,Foto_Sendiri,Ya,Ya,1500,4.0,Low,Tidak,7:00,Jakarta,4.2,Ya,1500.0,Mie,6.0,Grogol Petamburan
+Bakmi Ayam Lili 166,15,Foto_Sendiri,Ya,Ya,1200,4.1,Low,Tidak,10:00,Jakarta,4.3,Ya,1200.0,Mie,12.0,Kebon Jeruk
+Kopi Kreta,20,Foto_Sendiri,Ya,Ya,300,4.0,Low,Tidak,11:00,Jakarta,4.2,Ya,300.0,Kopi,12.0,Grogol Petamburan
+Pempek 71 Agus Salim,15,Foto_Sendiri,Ya,Ya,250,3.7,Low,Ya,14:30,Bekasi,3.8,Ya,250.0,Pempek,7.0,Bekasi Timur
+Global Bakery Jatiasih,60,Foto_Sendiri,Ya,Ya,400,3.8,Low,Tidak,6:00,Bekasi,3.9,Ya,400.0,Roti,15.0,Jatiasih
+Warung Pancong Balap,10,Foto_Sendiri,Ya,Ya,800,4.0,Low,Ya,18:00,Bekasi,4.2,Ya,800.0,Roti,8.0,Bekasi Selatan
+Warung Kue Pancong Balap,10,Foto_Sendiri,Ya,Ya,1200,4.1,Low,Ya,18:00,Bekasi,4.3,Ya,1200.0,Roti,9.0,Bekasi Selatan
+Fitri Sea Food,20,Foto_Sendiri,Ya,Ya,400,3.9,Medium,Tidak,17:00,Bekasi,4.1,Ya,400.0,Ikan,6.0,Bekasi Timur
+Sate Anda Kali Abang,10,Foto_Sendiri,Ya,Ya,900,4.2,Low,Tidak,10:00,Bekasi,4.3,Ya,900.0,Sate,11.0,Bekasi Utara
+Tsamara Resto,50,Foto_Sendiri,Ya,Ya,700,4.0,Medium,Tidak,10:00,Bekasi,4.2,Ya,700.0,Beragam,8.0,Jatisampurna
+Kemang Bistro Indonesian Food,35,Foto_Sendiri,Ya,Ya,450,3.8,Medium,Tidak,11:00,Bekasi,4.0,Ya,450.0,Beragam,9.0,Rawalumbu
+Sate Kiloan PSK Jatiasih,15,Foto_Sendiri,Ya,Ya,600,3.9,High,Tidak,10:00,Bekasi,4.1,Ya,600.0,Sate,12.0,Jatiasih
+RM Lestari Medan Satria,30,Foto_Sendiri,Ya,Ya,250,3.7,Low,Tidak,10:00,Bekasi,3.9,Tidak,250.0,Beragam,11.0,Medan Satria
+Warung Sate Pak Markih,10,Foto_Sendiri,Ya,Ya,200,3.8,Low,Tidak,10:00,Bekasi,4.0,Tidak,200.0,Sate,7.0,Pondok Gede
+RM Sate Barokah,20,Foto_Sendiri,Ya,Ya,500,3.9,Low,Tidak,8:00,Bekasi,4.1,Ya,500.0,Sate,14.0,Bekasi Barat
+Sate Kambing Moro Seneng,15,Foto_Sendiri,Ya,Ya,700,4.1,Medium,Tidak,10:00,Bekasi,4.3,Ya,700.0,Sate,12.0,Bekasi Barat
+Seblak Teh Betty,25,Foto_Sendiri,Ya,Ya,400,3.8,Low,Tidak,10:00,Bekasi,4.0,Ya,400.0,Pasta,36.0,Rawalumbu
+Bakso Agung Harapan Indah,15,Foto_Sendiri,Ya,Ya,500,3.9,Low,Tidak,10:00,Bekasi,4.1,Ya,500.0,Bakso,48.0,Medan Satria
+Bakso Den Harapan Indah,10,Foto_Sendiri,Ya,Ya,150,3.5,Low,Tidak,10:00,Bekasi,3.7,Tidak,150.0,Bakso,24.0,Medan Satria
+Rumah Makan Pondok Gurih,25,Foto_Sendiri,Ya,Ya,1500,4.3,Medium,Ya,10:00,Pekanbaru,4.3,Ya,950.0,Ikan,12.0,Sail
+Warung Nasi Padang Sederhana,18,Template,Ya,Ya,890,4.1,Low,Tidak,8:00,Pekanbaru,4.1,Tidak,670.0,Daging,13.0,Sukajadi
+Kedai Kopi Tradisional Riau,12,Foto_Sendiri,Ya,Tidak,720,4.0,Medium,Ya,7:00,Pekanbaru,4.0,Tidak,540.0,Kopi,16.0,Senapelan
+Restoran Sate Padang Ajo Ramon,15,Foto_Sendiri,Ya,Ya,1340,4.4,Medium,Ya,11:00,Pekanbaru,4.4,Tidak,980.0,Sate,11.0,Marpoyan Damai
+Rumah Makan Minang Raya,30,Template,Ya,Ya,2030,4.5,Low,Tidak,9:00,Pekanbaru,4.5,Tidak,1560.0,Ikan,12.0,Lima Puluh
+Warung Mie Ayam Berkah,8,Foto_Sendiri,Ya,Ya,450,3.9,High,Ya,9:00,Pekanbaru,3.9,Ya,320.0,Mie,11.0,Marpoyan Damai
+Kedai Seafood Pantai Riau,22,Foto_Sendiri,Ya,Ya,1670,4.2,Medium,Ya,16:00,Pekanbaru,4.2,Ya,1230.0,Ikan,7.0,Tampan
+Restoran Ayam Penyet Surabaya,16,Foto_Sendiri,Ya,Ya,910,4.0,Medium,Tidak,10:00,Pekanbaru,4.0,Ya,670.0,Ayam,11.0,Panam
+Warung Soto Betawi Jakarta,10,Foto_Sendiri,Ya,Ya,780,4.1,Low,Ya,7:00,Pekanbaru,4.1,Tidak,580.0,Soto,8.0,Sukajadi
+Kedai Bakso Malang Arema,12,Template,Ya,Ya,1150,4.3,High,Ya,8:00,Pekanbaru,4.3,Ya,870.0,Bakso,14.0,Marpoyan Damai
+Rumah Makan Gulai Kambing,20,Foto_Sendiri,Ya,Ya,890,4.2,Low,Tidak,11:00,Pekanbaru,4.2,Tidak,650.0,Daging,11.0,Senapelan
+Warung Nasi Uduk Betawi,14,Foto_Sendiri,Ya,Ya,670,3.8,Low,Ya,6:00,Pekanbaru,3.8,Tidak,450.0,Nasi,8.0,Lima Puluh
+Kedai Gado-Gado Bonbin,9,Foto_Sendiri,Ya,Ya,520,4.0,High,Tidak,8:00,Pekanbaru,4.0,Tidak,380.0,Sayuran,9.0,Tampan
+Restoran Steak & Grill Western,25,Foto_Sendiri,Ya,Ya,1560,4.4,Low,Ya,15:00,Pekanbaru,4.4,Ya,1120.0,Steak,8.0,Sukajadi
+Warung Pecel Lele Laris,11,Foto_Sendiri,Ya,Ya,940,4.1,Low,Ya,16:00,Pekanbaru,4.1,Tidak,710.0,Sayuran,7.0,Sail
+Kedai Es Campur Segar,8,Foto_Sendiri,Ya,Tidak,430,3.9,High,Tidak,13:00,Pekanbaru,3.9,Ya,310.0,Es,9.0,Senapelan
+Rumah Makan Iga Bakar Mas Bro,18,Foto_Sendiri,Ya,Ya,1280,4.3,Medium,Ya,17:00,Pekanbaru,4.3,Ya,980.0,Iga,7.0,Lima Puluh
+Warung Rawon Setan,13,Foto_Sendiri,Ya,Ya,760,4.2,Low,Tidak,10:00,Pekanbaru,4.2,Tidak,540.0,Sop,11.0,Marpoyan Damai
+Kedai Bubur Ayam Barokah,7,Foto_Sendiri,Ya,Ya,580,4.0,High,Ya,6:00,Pekanbaru,4.0,Tidak,420.0,Bubur,6.0,Tampan
+Restoran Pizza Corner,20,Foto_Sendiri,Ya,Ya,1450,4.1,Medium,Ya,11:00,Pekanbaru,4.1,Ya,1080.0,Pizza,12.0,Tampan
+Warung Martabak Manis Enak,12,Foto_Sendiri,Ya,Ya,870,4.2,Medium,Ya,18:00,Pekanbaru,4.2,Ya,650.0,Martabak,8.0,Senapelan
+Kedai Nasi Goreng Spesial,15,Foto_Sendiri,Ya,Ya,1020,4.0,Medium,Tidak,17:00,Pekanbaru,4.0,Tidak,780.0,Nasi,9.0,Marpoyan Damai
+Rumah Makan Bebek Goreng,19,Foto_Sendiri,Ya,Ya,1190,4.4,Medium,Ya,11:00,Pekanbaru,4.4,Tidak,890.0,Bebek,10.0,Sukajadi
+Warung Coto Makassar,16,Foto_Sendiri,Ya,Ya,930,4.1,Low,Tidak,8:00,Pekanbaru,4.1,Tidak,670.0,Soto,12.0,Senapelan
+Kedai Siomay Bandung,9,Foto_Sendiri,Ya,Ya,640,3.9,High,Ya,9:00,Pekanbaru,3.9,Tidak,480.0,Batagor,9.0,Lima Puluh
+Restoran Chinese Food Dragon,28,Foto_Sendiri,Ya,Ya,1780,4.3,Low,Ya,11:00,Pekanbaru,4.3,Ya,1340.0,Beragam,11.0,Sukajadi
+Warung Kupat Tahu Gempol,11,Foto_Sendiri,Ya,Ya,560,4.0,Medium,Tidak,7:00,Pekanbaru,4.0,Tidak,410.0,Tahu,9.0,Marpoyan Damai
+Kedai Bakmi Ayam Pak Kumis,13,Template,Ya,Ya,810,4.2,Medium,Ya,9:00,Pekanbaru,4.2,Tidak,620.0,Mie,12.0,Panam
+Rumah Makan Pempek Palembang,17,Foto_Sendiri,Ya,Ya,1070,4.1,Low,Tidak,10:00,Pekanbaru,4.1,Tidak,780.0,Pempek,11.0,Tampan
+Warung Tahu Bulat Crispy,8,Foto_Sendiri,Ya,Ya,390,3.8,Low,Ya,15:00,Pekanbaru,3.8,Tidak,280.0,Tahu,7.0,Tampan
+Kedai Kerak Telor Betawi,6,Foto_Sendiri,Ya,Ya,470,4.0,High,Tidak,17:00,Pekanbaru,4.0,Tidak,350.0,Gorengan,6.0,Sail
+Restoran Jepang Sakura,24,Foto_Sendiri,Ya,Ya,1670,4.5,Medium,Ya,11:00,Pekanbaru,4.5,Ya,1250.0,Ikan,11.0,Sukajadi
+Warung Gudeg Yogya,14,Foto_Sendiri,Ya,Ya,720,4.1,Low,Ya,8:00,Pekanbaru,4.1,Ya,530.0,Nasi,12.0,Marpoyan Damai
+Kedai Cendol Dawet Segar,10,Foto_Sendiri,Ya,Tidak,580,3.9,High,Tidak,12:00,Pekanbaru,3.9,Tidak,420.0,Es,9.0,Tampan
+Rumah Makan Ikan Bakar Cianjur,21,Foto_Sendiri,Ya,Ya,1340,4.3,Medium,Ya,16:00,Pekanbaru,4.3,Tidak,1010.0,Ikan,7.0,Senapelan
+Warung Nasi Krawu Gresik,12,Foto_Sendiri,Ya,Ya,650,4.0,Low,Tidak,7:00,Pekanbaru,4.0,Tidak,480.0,Nasi,8.0,Lima Puluh
+Kedai Bakso Tahu Malang,15,Foto_Sendiri,Ya,Ya,890,4.2,High,Ya,8:00,Pekanbaru,4.2,Tidak,670.0,Bakso,13.0,Marpoyan Damai
+Restoran Korea BBQ Seoul,22,Foto_Sendiri,Ya,Ya,1560,4.4,Low,Ya,17:00,Pekanbaru,4.4,Ya,1180.0,Daging,6.0,Sukajadi
+Warung Lotek Gado Jakarta,9,Foto_Sendiri,Ya,Ya,540,3.9,Low,Ya,8:00,Pekanbaru,3.9,Tidak,390.0,Sayuran,9.0,Senapelan
+Kedai Mie Pangsit Bogor,11,Foto_Sendiri,Ya,Ya,760,4.1,Medium,Tidak,9:00,Pekanbaru,4.1,Ya,570.0,Mie,11.0,Lima Puluh
+Rumah Makan Tengkleng Solo,18,Foto_Sendiri,Ya,Ya,980,4.2,Low,Ya,11:00,Pekanbaru,4.2,Tidak,730.0,Daging,10.0,Marpoyan Damai
+Warung Es Teler 77,13,Foto_Sendiri,Ya,Ya,1250,4.0,Medium,Ya,11:00,Pekanbaru,4.0,Ya,940.0,Es,11.0,Panam
+Kedai Sate Ayam Madura,10,Foto_Sendiri,Ya,Ya,670,4.1,Medium,Tidak,16:00,Pekanbaru,4.1,Tidak,510.0,Sate,7.0,Tampan
+Restoran Padang Sederhana,26,Template,Ya,Ya,1890,4.3,Low,Ya,8:00,Pekanbaru,4.3,Tidak,1420.0,Nasi,13.0,Senapelan
+Warung Pecel Pincuk Madiun,8,Template,Ya,Ya,450,3.8,Low,Ya,7:00,Pekanbaru,3.8,Tidak,340.0,Sayuran,8.0,Tampan
+Kedai Cilok Goang Bandung,7,Foto_Sendiri,Ya,Ya,520,3.9,Medium,Tidak,15:00,Pekanbaru,3.9,Tidak,380.0,Batagor,7.0,Sail
+Rumah Makan Ayam Geprek,16,Foto_Sendiri,Ya,Ya,1120,4.2,Low,Ya,10:00,Pekanbaru,4.2,Ya,840.0,Ayam,12.0,Tampan
+Warung Bakmi Jawa Pak Karso,12,Foto_Sendiri,Ya,Ya,730,4.0,Low,Tidak,8:00,Pekanbaru,4.0,Tidak,550.0,Mie,11.0,Marpoyan Damai
+Kedai Lumpia Semarang,9,Foto_Sendiri,Ya,Ya,610,4.1,High,Ya,9:00,Pekanbaru,4.1,Tidak,460.0,Gorengan,9.0,Senapelan
+Restoran Seafood Bahari,23,Foto_Sendiri,Ya,Ya,1780,4.4,Medium,Ya,17:00,Pekanbaru,4.4,Ya,1340.0,Beragam,6.0,Lima Puluh
+Warung Nasi Campur Bali,17,Foto_Sendiri,Ya,Ya,950,4.1,Low,Tidak,9:00,Pekanbaru,4.1,Tidak,710.0,Nasi,12.0,Marpoyan Damai
+Kedai Teh Tarik Malaysia,11,Foto_Sendiri,Ya,Ya,840,4.0,High,Ya,14:00,Pekanbaru,4.0,Tidak,630.0,Es,9.0,Sukajadi
+Rumah Makan Ayam Betutu,19,Template,Ya,Ya,1070,4.3,High,Ya,11:00,Pekanbaru,4.3,Tidak,810.0,Ayam,11.0,Sukajadi
+Warung Sop Buntut Jakarta,14,Foto_Sendiri,Ya,Ya,890,4.2,Low,Tidak,11:00,Pekanbaru,4.2,Tidak,670.0,Sop,10.0,Senapelan
+Kedai Rujak Cingur Surabaya,8,Foto_Sendiri,Ya,Ya,560,3.9,High,Ya,8:00,Pekanbaru,3.9,Tidak,420.0,Es,9.0,Lima Puluh
+Restoran India Curry House,20,Foto_Sendiri,Ya,Ya,1430,4.3,Low,Ya,11:00,Pekanbaru,4.3,Ya,1080.0,Ayam,11.0,Marpoyan Damai
+Warung Tahu Gejrot Cirebon,6,Foto_Sendiri,Ya,Ya,380,3.8,Low,Tidak,15:00,Pekanbaru,3.8,Tidak,290.0,Tahu,7.0,Panam
+Kedai Pisang Goreng Pontianak,9,Foto_Sendiri,Ya,Ya,640,4.0,Medium,Ya,14:00,Pekanbaru,4.0,Ya,480.0,Roti,7.0,Tampan
+Rumah Makan Ayam Taliwang,16,Foto_Sendiri,Ya,Ya,1240,4.2,Low,Ya,16:00,Pekanbaru,4.2,Tidak,940.0,Ayam,7.0,Senapelan
+Warung Ketoprak Solo,11,Foto_Sendiri,Ya,Ya,710,4.1,Low,Tidak,7:00,Pekanbaru,4.1,Tidak,530.0,Sayuran,9.0,Tampan
+Kedai Bakwan Malang,7,Foto_Sendiri,Ya,Ya,490,3.9,High,Ya,8:00,Pekanbaru,3.9,Tidak,360.0,Bakso,10.0,Sail
+Restoran Thai Food Bangkok,22,Foto_Sendiri,Ya,Ya,1560,4.4,Medium,Ya,11:00,Pekanbaru,4.4,Ya,1170.0,Beragam,11.0,Tampan
+Warung Opor Ayam Jawa,13,Foto_Sendiri,Ya,Ya,780,4.0,Low,Tidak,9:00,Pekanbaru,4.0,Tidak,580.0,Ayam,11.0,Marpoyan Damai
+Kedai Klepon Betawi,5,Foto_Sendiri,Ya,Ya,340,3.8,High,Ya,13:00,Pekanbaru,3.8,Tidak,260.0,Roti,7.0,Senapelan
+Rumah Makan Sop Kambing,18,Foto_Sendiri,Ya,Ya,1150,4.3,Medium,Ya,17:00,Pekanbaru,4.3,Tidak,870.0,Sop,7.0,Lima Puluh
+Warung Nasi Liwet Solo,15,Foto_Sendiri,Ya,Ya,920,4.1,Low,Tidak,10:00,Pekanbaru,4.1,Tidak,690.0,Nasi,11.0,Marpoyan Damai
+Kedai Dawet Ayu Banjarnegara,8,Foto_Sendiri,Ya,Tidak,570,3.9,High,Ya,12:00,Pekanbaru,3.9,Tidak,430.0,Es,9.0,Sukajadi
+Restoran Makanan Laut Mutiara,25,Foto_Sendiri,Ya,Ya,1890,4.5,Medium,Ya,16:00,Pekanbaru,4.5,Tidak,1420.0,Ikan,7.0,Sukajadi
+Warung Empal Gentong Cirebon,12,Foto_Sendiri,Ya,Ya,830,4.2,Low,Ya,8:00,Pekanbaru,4.2,Ya,620.0,Daging,12.0,Senapelan
+Kedai Serabi Solo,10,Foto_Sendiri,Ya,Ya,650,4.0,High,Tidak,14:00,Pekanbaru,4.0,Tidak,480.0,Roti,8.0,Lima Puluh
+Rumah Makan Bebek Bakar,17,Foto_Sendiri,Ya,Ya,1080,4.2,Low,Ya,16:00,Pekanbaru,4.2,Tidak,810.0,Bebek,7.0,Marpoyan Damai
+Warung Gado-Gado Surabaya,11,Foto_Sendiri,Ya,Ya,740,4.1,Low,Ya,8:00,Pekanbaru,4.1,Tidak,560.0,Sayuran,9.0,Panam
+Kedai Wedang Ronde Surabaya,6,Foto_Sendiri,Ya,Tidak,410,3.8,High,Tidak,18:00,Pekanbaru,3.8,Tidak,310.0,Wedang Ronde Hangat,6.0,Tampan
+Restoran Vietnam Pho Saigon,19,Foto_Sendiri,Ya,Ya,1340,4.3,Low,Ya,10:00,Pekanbaru,4.3,Ya,1010.0,Sop,12.0,Senapelan
+Warung Sate Klathak Jogja,13,Foto_Sendiri,Ya,Ya,870,4.1,Medium,Tidak,16:00,Pekanbaru,4.1,Tidak,650.0,Daging,7.0,Tampan
+Kedai Batagor Bandung,9,Foto_Sendiri,Ya,Ya,630,4.0,Low,Ya,9:00,Pekanbaru,4.0,Tidak,470.0,Batagor,9.0,Sail
+Rumah Makan Gulai Kepala Ikan,21,Template,Ya,Ya,1450,4.4,High,Ya,11:00,Pekanbaru,4.4,Tidak,1090.0,Ikan,11.0,Tampan
+Warung Nasi Pecel Madiun,14,Foto_Sendiri,Ya,Ya,790,4.1,Low,Tidak,7:00,Pekanbaru,4.1,Tidak,590.0,Sayuran,9.0,Marpoyan Damai
+Kedai Semur Jengkol Betawi,8,Foto_Sendiri,Ya,Ya,520,3.9,Medium,Ya,11:00,Pekanbaru,3.9,Tidak,390.0,Sayuran,9.0,Senapelan
+Restoran Fusion Modern Taste,26,Foto_Sendiri,Ya,Ya,1670,4.5,High,Ya,17:00,Pekanbaru,4.5,Ya,1250.0,Daging,6.0,Lima Puluh
+Warung Cah Kangkung Tauco,10,Foto_Sendiri,Ya,Ya,680,4.0,Low,Ya,10:00,Pekanbaru,4.0,Tidak,510.0,Sayuran,11.0,Marpoyan Damai

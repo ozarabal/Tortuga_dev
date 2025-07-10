@@ -1,0 +1,25 @@
+jumlah_menu,gambar_menu,apakah_menjual_minuman,apakah_menjual_makanan,rata-rata_harga_makanan_utama,Promo_ongkir(goplus),jam_buka,Sosial_media,menu_utama,durasi_oprasional,jumlah_review,rating,jumlah_ulasan_gmaps,rating_gmaps
+21,Template,Ya,Ya,Medium,Ya,8:00,Ya,Ayam,12,11993,4.4,7370,4.4
+104,Foto_Sendiri,Tidak,Ya,Medium,Tidak,10:00,Tidak,Beragam,10,9651,4.4,6851,4.5
+76,Template,Ya,Tidak,Medium,Ya,10:00,Ya,Bakso,12,9574,3.1,1926,3.6
+130,Foto_Sendiri,Ya,Ya,High,Ya,8:00,Ya,Ayam,12,6327,4.4,8777,4.6
+71,Foto_Sendiri,Ya,Ya,High,Ya,8:00,Ya,Pizza,12,4019,4.3,5780,4.4
+31,Foto_Sendiri,Ya,Ya,Very High,Tidak,8:30,Ya,Batagor,10,6419,4.9,8851,4.2
+83,Template,Ya,Ya,Low,Ya,8:00,Tidak,Ayam,13,5120,4.6,134,4.3
+8,Template,Ya,Tidak,Medium,Ya,11:00,Tidak,Es,11,3492,4.5,3876,4.7
+94,Template,Ya,Ya,Low,Ya,10:30,Ya,Beragam,9,1260,4.9,6199,4.8
+40,Foto_Sendiri,Ya,Tidak,Low,Ya,9:00,Tidak,Kopi,13,11982,5.0,1618,4.6
+116,Template,Ya,Ya,High,Ya,8:00,Ya,Ayam,10,2527,4.3,7986,4.8
+118,Foto_Sendiri,Ya,Ya,Very High,Tidak,8:00,Ya,Bakso,10,3259,4.1,5438,4.6
+114,Template,Ya,Tidak,Medium,Ya,8:30,Ya,Ayam,12,5859,4.6,8737,4.1
+29,Foto_Sendiri,Ya,Tidak,Low,Ya,11:00,Ya,Ayam,11,2565,4.6,1152,4.6
+110,Foto_Sendiri,Ya,Ya,High,Ya,11:00,Tidak,Bakso,11,835,4.7,1705,4.7
+40,Foto_Sendiri,Ya,Tidak,High,Tidak,8:00,Ya,Bakso,9,3586,4.2,161,4.5
+127,Foto_Sendiri,Ya,Ya,High,Ya,8:00,Tidak,Ayam,11,8214,4.1,5626,4.3
+105,Foto_Sendiri,Ya,Ya,High,Tidak,8:30,Ya,Ayam,10,2961,2.8,4409,3.7
+69,Template,Ya,Ya,Low,Ya,8:30,Tidak,Bakso,12,5990,4.9,8377,4.5
+127,Foto_Sendiri,Ya,Ya,Very High,Ya,10:00,Tidak,Beragam,12,8254,4.8,8577,4.3
+117,Foto_Sendiri,Ya,Tidak,High,Ya,8:00,Tidak,Pizza,11,7667,3.7,5903,2.7
+8,Template,Ya,Ya,Medium,Ya,10:30,Ya,Beragam,12,9488,3.1,7185,2.9
+124,Template,Ya,Ya,High,Ya,10:30,Tidak,Bakso,10,9710,5.0,3943,4.7
+54,Template,Ya,Tidak,Low,Ya,9:00,Ya,Bakso,9,11584,4.7,7371,4.1

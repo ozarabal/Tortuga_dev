@@ -1,0 +1,8 @@
+catboost==1.2.5
+huggingface-hub==0.33.2
+joblib==1.4.2
+pandas==2.2.3
+scikit-learn==1.6.1
+seaborn==0.13.2
+xgboost==2.1.4
+matplotlib==3.10.0
